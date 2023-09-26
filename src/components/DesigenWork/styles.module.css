@@ -1,0 +1,9 @@
+.desigen{
+    color: #000507;
+    font-family: 'Cinzel', sans-serif !important;
+    font-size: 60px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+}
